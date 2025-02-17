@@ -1,0 +1,172 @@
+@font-face {
+  font-family: 'icon-connect';
+  src: url('icon-connect.eot?99476389');
+  src: url('icon-connect.eot?99476389#iefix') format('embedded-opentype'),
+       url('icon-connect.woff2?99476389') format('woff2'),
+       url('icon-connect.woff?99476389') format('woff'),
+       url('icon-connect.ttf?99476389') format('truetype'),
+       url('icon-connect.svg?99476389#icon-connect') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'icon-connect';
+    src: url('icon-connect.svg?99476389#icon-connect') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  /*font-family: 'icon-connect' !important;*/
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-accounting-withdraw:before { content: '\e800'; } /* '' */
+.icon-add-circle:before { content: '\e801'; } /* '' */
+.icon-alert-diamond:before { content: '\e802'; } /* '' */
+.icon-alert-triangle:before { content: '\e803'; } /* '' */
+.icon-arrow-button-left:before { content: '\e804'; } /* '' */
+.icon-arrow-button-right:before { content: '\e805'; } /* '' */
+.icon-arrow-circle-left:before { content: '\e806'; } /* '' */
+.icon-arrow-circle-right:before { content: '\e807'; } /* '' */
+.icon-baggage-question:before { content: '\e808'; } /* '' */
+.icon-book-flip-page:before { content: '\e809'; } /* '' */
+.icon-caratteristica-alba:before { content: '\e80a'; } /* '' */
+.icon-caratteristica-barca:before { content: '\e80b'; } /* '' */
+.icon-caratteristica-camera-particolare:before { content: '\e80c'; } /* '' */
+.icon-caratteristica-campagna:before { content: '\e80d'; } /* '' */
+.icon-caratteristica-campeggio:before { content: '\e80e'; } /* '' */
+.icon-caratteristica-campi:before { content: '\e80f'; } /* '' */
+.icon-caratteristica-castello:before { content: '\e810'; } /* '' */
+.icon-caratteristica-cultura:before { content: '\e811'; } /* '' */
+.icon-caratteristica-deserto:before { content: '\e812'; } /* '' */
+.icon-caratteristica-faredelbene:before { content: '\e813'; } /* '' */
+.icon-caratteristica-fiume:before { content: '\e814'; } /* '' */
+.icon-caratteristica-mare:before { content: '\e815'; } /* '' */
+.icon-caratteristica-montagna:before { content: '\e816'; } /* '' */
+.icon-caratteristica-monti:before { content: '\e817'; } /* '' */
+.icon-caratteristica-natura:before { content: '\e818'; } /* '' */
+.icon-caratteristica-notte:before { content: '\e819'; } /* '' */
+.icon-caratteristica-pioniere:before { content: '\e81a'; } /* '' */
+.icon-caratteristica-relax:before { content: '\e81b'; } /* '' */
+.icon-caratteristica-salvagente:before { content: '\e81c'; } /* '' */
+.icon-caratteristica-tempio:before { content: '\e81d'; } /* '' */
+.icon-caratteristica-tramonto:before { content: '\e81e'; } /* '' */
+.icon-caratteristica-vino:before { content: '\e81f'; } /* '' */
+.icon-caratteristica-yoga:before { content: '\e820'; } /* '' */
+.icon-check-circle:before { content: '\e821'; } /* '' */
+.icon-cog:before { content: '\e822'; } /* '' */
+.icon-cursor-hand:before { content: '\e823'; } /* '' */
+.icon-cursor:before { content: '\e824'; } /* '' */
+.icon-delete:before { content: '\e825'; } /* '' */
+.icon-download-circle:before { content: '\e826'; } /* '' */
+.icon-e-commerce-cart:before { content: '\e827'; } /* '' */
+.icon-face-id:before { content: '\e828'; } /* '' */
+.icon-house-chimney:before { content: '\e829'; } /* '' */
+.icon-info-camera:before { content: '\e82a'; } /* '' */
+.icon-info-conferma-tour:before { content: '\e82b'; } /* '' */
+.icon-info-cosaportare:before { content: '\e82c'; } /* '' */
+.icon-info-difficolta:before { content: '\e82d'; } /* '' */
+.icon-info-dislivello:before { content: '\e82e'; } /* '' */
+.icon-info-distanza:before { content: '\e82f'; } /* '' */
+.icon-info-documenti:before { content: '\e830'; } /* '' */
+.icon-info-gratis:before { content: '\e831'; } /* '' */
+.icon-info-meeting-luogo:before { content: '\e832'; } /* '' */
+.icon-info-meteo:before { content: '\e833'; } /* '' */
+.icon-info-orario:before { content: '\e834'; } /* '' */
+.icon-info-pagamento:before { content: '\e835'; } /* '' */
+.icon-info-partecipanti:before { content: '\e836'; } /* '' */
+.icon-info-pasti:before { content: '\e837'; } /* '' */
+.icon-info-pranzoalsacco:before { content: '\e838'; } /* '' */
+.icon-info-sentiero-anello:before { content: '\e839'; } /* '' */
+.icon-info-visita-accompagnata:before { content: '\e83a'; } /* '' */
+.icon-info-visita-guidata:before { content: '\e83b'; } /* '' */
+.icon-info-volo-consigliato:before { content: '\e83c'; } /* '' */
+.icon-list-bullets:before { content: '\e83d'; } /* '' */
+.icon-loading-circle:before { content: '\e83e'; } /* '' */
+.icon-lock-1:before { content: '\e83f'; } /* '' */
+.icon-login-keys:before { content: '\e840'; } /* '' */
+.icon-login:before { content: '\e841'; } /* '' */
+.icon-logout:before { content: '\e842'; } /* '' */
+.icon-member-no:before { content: '\e843'; } /* '' */
+.icon-member-ok:before { content: '\e844'; } /* '' */
+.icon-member-rinnova:before { content: '\e845'; } /* '' */
+.icon-member:before { content: '\e846'; } /* '' */
+.icon-money-bag-dollar:before { content: '\e847'; } /* '' */
+.icon-mood-dinamico:before { content: '\e848'; } /* '' */
+.icon-mood-extreme:before { content: '\e849'; } /* '' */
+.icon-mood-relax:before { content: '\e84a'; } /* '' */
+.icon-multiple-users:before { content: '\e84b'; } /* '' */
+.icon-navigation-menu:before { content: '\e84c'; } /* '' */
+.icon-navigation-right-circle:before { content: '\e84d'; } /* '' */
+.icon-network-heart:before { content: '\e84e'; } /* '' */
+.icon-network-search:before { content: '\e84f'; } /* '' */
+.icon-office-file-glue-alternate:before { content: '\e850'; } /* '' */
+.icon-office-file-pdf-1:before { content: '\e851'; } /* '' */
+.icon-password-lock-1:before { content: '\e852'; } /* '' */
+.icon-pin:before { content: '\e853'; } /* '' */
+.icon-print-text:before { content: '\e854'; } /* '' */
+.icon-question-circle:before { content: '\e855'; } /* '' */
+.icon-receipt-slip:before { content: '\e856'; } /* '' */
+.icon-remove-circle:before { content: '\e857'; } /* '' */
+.icon-remove:before { content: '\e858'; } /* '' */
+.icon-search:before { content: '\e859'; } /* '' */
+.icon-share:before { content: '\e85a'; } /* '' */
+.icon-shopping-cart-heart:before { content: '\e85b'; } /* '' */
+.icon-shopping-cart:before { content: '\e85c'; } /* '' */
+.icon-single-neutral-2:before { content: '\e85d'; } /* '' */
+.icon-single-neutral-circle:before { content: '\e85e'; } /* '' */
+.icon-single-neutral-home:before { content: '\e85f'; } /* '' */
+.icon-single-neutral:before { content: '\e860'; } /* '' */
+.icon-social-facebook:before { content: '\e861'; } /* '' */
+.icon-social-instagram:before { content: '\e862'; } /* '' */
+.icon-sport-bicicletta:before { content: '\e863'; } /* '' */
+.icon-sport-canoa:before { content: '\e864'; } /* '' */
+.icon-sport-gommone:before { content: '\e865'; } /* '' */
+.icon-sport-invernale:before { content: '\e866'; } /* '' */
+.icon-sport-kitesurf:before { content: '\e867'; } /* '' */
+.icon-sport-sci:before { content: '\e868'; } /* '' */
+.icon-sport-snorkeling:before { content: '\e869'; } /* '' */
+.icon-sport-sup:before { content: '\e86a'; } /* '' */
+.icon-sport-surf:before { content: '\e86b'; } /* '' */
+.icon-sport-trekking:before { content: '\e86c'; } /* '' */
+.icon-sport-zipline:before { content: '\e86d'; } /* '' */
+.icon-stato-attesa-small:before { content: '\e86e'; } /* '' */
+.icon-stato-attesa:before { content: '\e86f'; } /* '' */
+.icon-stato-confermato:before { content: '\e870'; } /* '' */
+.icon-stato-programmato-small:before { content: '\e871'; } /* '' */
+.icon-stato-programmato:before { content: '\e872'; } /* '' */
+.icon-stato-quasi-completo:before { content: '\e873'; } /* '' */
+.icon-stato-quasi-confermato:before { content: '\e874'; } /* '' */
+.icon-step-iscriviti:before { content: '\e875'; } /* '' */
+.icon-step-mettitiallaprova:before { content: '\e876'; } /* '' */
+.icon-step-partecipa:before { content: '\e877'; } /* '' */
+.icon-step-whatsapp:before { content: '\e878'; } /* '' */
+.icon-tag-new:before { content: '\e879'; } /* '' */
+.icon-time-clock-circle:before { content: '\e87a'; } /* '' */
+.icon-tipologia-wanderlust:before { content: '\e87b'; } /* '' */
+.icon-tipologia-week:before { content: '\e87c'; } /* '' */
+.icon-tipologia-weekend:before { content: '\e87d'; } /* '' */
+.icon-trasporti-aereo:before { content: '\e87e'; } /* '' */
+.icon-trasporti-auto:before { content: '\e87f'; } /* '' */
+.icon-trasporti-bus:before { content: '\e880'; } /* '' */
+.icon-trasporti-treno:before { content: '\e881'; } /* '' */
+.icon-travel-crossroad-direction-board:before { content: '\e882'; } /* '' */
+.icon-travel-luggage:before { content: '\e883'; } /* '' */
+.icon-upload-circle:before { content: '\e884'; } /* '' */
+.icon-user-question:before { content: '\e885'; } /* '' */
+.icon-view-off:before { content: '\e886'; } /* '' */
+.icon-view:before { content: '\e887'; } /* '' */
+.icon-wifi-signal:before { content: '\e888'; } /* '' */

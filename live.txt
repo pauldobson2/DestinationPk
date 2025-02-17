@@ -1,0 +1,6 @@
+MySQL database name: u446450264_destinationpk
+MySQL username : u446450264_destinationpk
+MySQL password:destination.PK1
+
+
+destinationtravel.destinationpk.com
